@@ -1,0 +1,2 @@
+Requirement already satisfied: tabulate in /opt/anaconda3/lib/python3.12/site-packages (0.8.10)
+Requirement already satisfied: networkx in /opt/anaconda3/lib/python3.12/site-packages (2.8.8)
